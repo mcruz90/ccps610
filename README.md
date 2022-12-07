@@ -16,4 +16,4 @@ After cloning repository, run npm install in both the backend and client folders
 
 This project took about three weeks to complete for a databases II course at Toronto Metropolitan University (Ryerson University). The goals of the assignment were to address a set of tasks performed as part of some business functions for a fictional brewery's website by creating sql functions, stored procedures, and queries in a database, that were then to be called to the front-end. 
 
-I was able to gain more experience with the middleware aspect of the project. Although not included as requirements for the project, future tasks include implementing OAuth, and separating views for customers and employees.
+I was able to gain more experience with the middleware aspect of the project. Although not included as requirements for the project, future tasks include implementing OAuth to create separate views for employees and customers, and more error-handling to address edge cases.
