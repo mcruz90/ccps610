@@ -1,4 +1,4 @@
-## Brewbean's company website
+## Brewbean's internal company website
 
 A webapp for a course project for fictional employees of a coffee brewery to perform some basic business functions such as editing and creating products, tracking and editing orders, and tracking customer sales.
 
