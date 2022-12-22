@@ -4,7 +4,7 @@ A webapp for a course project for fictional employees of a coffee brewery to per
 
 Built using React, Express, Node.js and MySQL.
 
-<img src="https://raw.githubusercontent.com/mcruz90/ccps610/main/Screenshot%202022-12-06%20at%2022-57-07%20Brewbean's%20Coffee%20Shop.png" width="500"> <img src="https://raw.githubusercontent.com/mcruz90/ccps610/main/Screenshot%202022-12-06%20at%2022-57-35%20Brewbean's%20Coffee%20Shop.png" width="500">
+<img src="https://raw.githubusercontent.com/mcruz90/ccps610/main/Screenshot%202022-12-06%20at%2022-57-07%20Brewbean's%20Coffee%20Shop.png" width="500"> <img src="https://raw.githubusercontent.com/mcruz90/ccps610/main/Screenshot%202022-12-06%20at%2022-57-35%20Brewbean's%20Coffee%20Shop.png" width="500"> <img src="https://raw.githubusercontent.com/mcruz90/ccps610/main/Screenshot%202022-12-06%20at%2022-58-12%20Brewbean's%20Coffee%20Shop.png" width="500">
 
 ## Installation and Setup Instructions
 
